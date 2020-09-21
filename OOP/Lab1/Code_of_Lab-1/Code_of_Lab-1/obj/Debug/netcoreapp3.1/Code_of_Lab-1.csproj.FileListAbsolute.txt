@@ -1,0 +1,12 @@
+/Users/rifat/Documents/Projects/ITMO-S3-2020/OOP/Lab1/Code_of_Lab-1/Code_of_Lab-1/bin/Debug/netcoreapp3.1/Code_of_Lab-1.deps.json
+/Users/rifat/Documents/Projects/ITMO-S3-2020/OOP/Lab1/Code_of_Lab-1/Code_of_Lab-1/bin/Debug/netcoreapp3.1/Code_of_Lab-1.runtimeconfig.json
+/Users/rifat/Documents/Projects/ITMO-S3-2020/OOP/Lab1/Code_of_Lab-1/Code_of_Lab-1/bin/Debug/netcoreapp3.1/Code_of_Lab-1.runtimeconfig.dev.json
+/Users/rifat/Documents/Projects/ITMO-S3-2020/OOP/Lab1/Code_of_Lab-1/Code_of_Lab-1/bin/Debug/netcoreapp3.1/Code_of_Lab-1.dll
+/Users/rifat/Documents/Projects/ITMO-S3-2020/OOP/Lab1/Code_of_Lab-1/Code_of_Lab-1/bin/Debug/netcoreapp3.1/Code_of_Lab-1.pdb
+/Users/rifat/Documents/Projects/ITMO-S3-2020/OOP/Lab1/Code_of_Lab-1/Code_of_Lab-1/obj/Debug/netcoreapp3.1/Code_of_Lab-1.csprojAssemblyReference.cache
+/Users/rifat/Documents/Projects/ITMO-S3-2020/OOP/Lab1/Code_of_Lab-1/Code_of_Lab-1/obj/Debug/netcoreapp3.1/Code_of_Lab-1.AssemblyInfoInputs.cache
+/Users/rifat/Documents/Projects/ITMO-S3-2020/OOP/Lab1/Code_of_Lab-1/Code_of_Lab-1/obj/Debug/netcoreapp3.1/Code_of_Lab-1.AssemblyInfo.cs
+/Users/rifat/Documents/Projects/ITMO-S3-2020/OOP/Lab1/Code_of_Lab-1/Code_of_Lab-1/obj/Debug/netcoreapp3.1/Code_of_Lab-1.csproj.CoreCompileInputs.cache
+/Users/rifat/Documents/Projects/ITMO-S3-2020/OOP/Lab1/Code_of_Lab-1/Code_of_Lab-1/obj/Debug/netcoreapp3.1/Code_of_Lab-1.dll
+/Users/rifat/Documents/Projects/ITMO-S3-2020/OOP/Lab1/Code_of_Lab-1/Code_of_Lab-1/obj/Debug/netcoreapp3.1/Code_of_Lab-1.pdb
+/Users/rifat/Documents/Projects/ITMO-S3-2020/OOP/Lab1/Code_of_Lab-1/Code_of_Lab-1/obj/Debug/netcoreapp3.1/Code_of_Lab-1.genruntimeconfig.cache
