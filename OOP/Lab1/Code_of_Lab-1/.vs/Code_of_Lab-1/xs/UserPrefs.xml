@@ -1,8 +1,11 @@
 ﻿<Properties StartupConfiguration="{AA25E211-1943-4C5A-AAAE-868B49FB09F5}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Code_of_Lab-1/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Code_of_Lab-1/Search.cs">
     <Files>
-      <File FileName="Code_of_Lab-1/Program.cs" Line="14" Column="2" />
-      <File FileName="Code_of_Lab-1/Person.cs" Line="8" Column="38" />
+      <File FileName="Code_of_Lab-1/Program.cs" Line="12" Column="75" />
+      <File FileName="Code_of_Lab-1/Local_Exception.cs" />
+      <File FileName="Code_of_Lab-1/Search.cs" Line="92" Column="6" />
+      <File FileName="Code_of_Lab-1/file.ini" />
+      <File FileName="Code_of_Lab-1/Parameters.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,7 +13,7 @@
           <Node name="Code_of_Lab-1" expanded="True">
             <Node name="Code_of_Lab-1" expanded="True">
               <Node name="Dependencies" expanded="True" />
-              <Node name="Program.cs" selected="True" />
+              <Node name="Search.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -19,7 +22,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Code__of__Lab-1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

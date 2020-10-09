@@ -9,3 +9,4 @@
 /Users/rifat/Documents/Projects/ITMO-S3-2020/OOP/Lab1/Code_of_Lab-1/Code_of_Lab-1/obj/Debug/netcoreapp3.1/Code_of_Lab-1.dll
 /Users/rifat/Documents/Projects/ITMO-S3-2020/OOP/Lab1/Code_of_Lab-1/Code_of_Lab-1/obj/Debug/netcoreapp3.1/Code_of_Lab-1.pdb
 /Users/rifat/Documents/Projects/ITMO-S3-2020/OOP/Lab1/Code_of_Lab-1/Code_of_Lab-1/obj/Debug/netcoreapp3.1/Code_of_Lab-1.genruntimeconfig.cache
+/Users/rifat/Documents/Projects/ITMO-S3-2020/OOP/Lab1/Code_of_Lab-1/Code_of_Lab-1/obj/Debug/netcoreapp3.1/Code_of_Lab-1.csprojAssemblyReference.cache
