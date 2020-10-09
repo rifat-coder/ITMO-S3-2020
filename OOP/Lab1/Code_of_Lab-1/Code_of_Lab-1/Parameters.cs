@@ -15,19 +15,7 @@ namespace Code_of_Lab_1
         public dynamic get_value()
         {
             return value;
-            /*if (Int32.TryParse(value, out int intval))
-            {
-                return intval;
-            }
-            else if (Double.TryParse(value, out double doubletval))
-            {
-                return doubletval;
-            }
-            else
-            {
-                return value;
-            }*/
-                
+            
         }
     }
 }
