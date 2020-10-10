@@ -39,7 +39,7 @@ namespace Code_of_Lab_1
             }
             return false;
         }
-        private bool line_empty(string line)
+        private bool line_empty(string line) 
         {
             if (Regex.IsMatch(line, pattern_empty_line))
             {   
@@ -112,6 +112,7 @@ namespace Code_of_Lab_1
             {
                 throw new Local_Exception($"Not found parametr {parametr} in the section {section_name}.");
             }
+            // make to template
             if (Int32.TryParse(all_parametrs[section_name][parametr], out int intval))
             {
                 return intval;
