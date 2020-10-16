@@ -1,0 +1,11 @@
+/usr/sbin/auditd
+/usr/sbin/sssd
+/usr/sbin/mcelog
+/usr/sbin/smartd
+/usr/sbin/rngd
+/usr/sbin/NetworkManager
+/usr/sbin/sshd
+/usr/sbin/crond
+/usr/sbin/atd
+/usr/sbin/sshd
+/usr/sbin/sshd
