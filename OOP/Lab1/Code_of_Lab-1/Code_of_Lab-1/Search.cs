@@ -70,7 +70,7 @@ namespace Code_of_Lab_1
                 all_parametrs[section_name].Add(p.name, p.get_value());
             }
         }
-        public void read_file()
+        public void read_ini_file()
         {
             try
             {
@@ -102,8 +102,11 @@ namespace Code_of_Lab_1
             }
 
         }
+        
         public dynamic finder(string section_name, string parametr)
         {
+            string value = all_parametrs[section_name][parametr];
+
             if (!all_parametrs.ContainsKey(section_name))
             {
                 throw new Local_Exception($"Not found section {section_name} in ini file.");
@@ -112,20 +115,21 @@ namespace Code_of_Lab_1
             {
                 throw new Local_Exception($"Not found parametr {parametr} in the section {section_name}.");
             }
-            // make to template
-            if (Int32.TryParse(all_parametrs[section_name][parametr], out int intval))
+            
+            if (Int32.TryParse(value, out int intval))
             {
                 return intval;
             }
-            else if (Double.TryParse(all_parametrs[section_name][parametr], out double doubletval))
+            else if (Double.TryParse(value, out double doubletval))
             {
                 return doubletval;
             }
             else
             {
-                return all_parametrs[section_name][parametr];
+                return value;
             }
-            //return all_parametrs[section_name][parametr];
+            
         }
+        
     }
 }

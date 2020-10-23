@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{06962F3A-DFDD-4BBF-AA84-3CF425248124}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Code_of_lab-2/Shopping_center.cs">
+    <Files>
+      <File FileName="Code_of_lab-2/Program.cs" Line="9" Column="13" IsPinned="True" />
+      <File FileName="Code_of_lab-2/Product.cs" Line="11" Column="40" />
+      <File FileName="Code_of_lab-2/ProductInStore.cs" Line="13" Column="32" />
+      <File FileName="Code_of_lab-2/Store.cs" Line="13" Column="10" />
+      <File FileName="Code_of_lab-2/Big_Storage.cs" Line="19" Column="1" />
+      <File FileName="Code_of_lab-2/Shopping_center.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Code_of_lab-2" expanded="True">
+            <Node name="Code_of_lab-2" expanded="True">
+              <Node name="Shopping_center.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Code__of__lab-2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,11 +1,11 @@
 ﻿<Properties StartupConfiguration="{AA25E211-1943-4C5A-AAAE-868B49FB09F5}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Code_of_Lab-1/Search.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Code_of_Lab-1/Program.cs">
     <Files>
-      <File FileName="Code_of_Lab-1/Program.cs" Line="18" Column="75" />
+      <File FileName="Code_of_Lab-1/Program.cs" Line="22" Column="39" />
       <File FileName="Code_of_Lab-1/Local_Exception.cs" Line="12" Column="1" />
-      <File FileName="Code_of_Lab-1/Search.cs" Line="115" Column="32" />
+      <File FileName="Code_of_Lab-1/Search.cs" Line="76" Column="14" />
       <File FileName="Code_of_Lab-1/Parameters.cs" Line="18" Column="13" />
-      <File FileName="Code_of_Lab-1/file.ini" Line="2" Column="9" />
+      <File FileName="Code_of_Lab-1/file.ini" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,19 +13,19 @@
           <Node name="Code_of_Lab-1" expanded="True">
             <Node name="Code_of_Lab-1" expanded="True">
               <Node name="Dependencies" expanded="True" />
-              <Node name="Search.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Code__of__Lab-1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders>
+    <String>/Users/rifat/Documents</String>
+  </Debugger.DebugSourceFolders>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
