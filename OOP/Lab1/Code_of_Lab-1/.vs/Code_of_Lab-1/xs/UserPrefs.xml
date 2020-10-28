@@ -1,11 +1,11 @@
 ﻿<Properties StartupConfiguration="{AA25E211-1943-4C5A-AAAE-868B49FB09F5}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Code_of_Lab-1/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Code_of_Lab-1/file.ini">
     <Files>
-      <File FileName="Code_of_Lab-1/Program.cs" Line="22" Column="39" />
+      <File FileName="Code_of_Lab-1/Program.cs" Line="15" Column="14" />
       <File FileName="Code_of_Lab-1/Local_Exception.cs" Line="12" Column="1" />
-      <File FileName="Code_of_Lab-1/Search.cs" Line="76" Column="14" />
-      <File FileName="Code_of_Lab-1/Parameters.cs" Line="18" Column="13" />
-      <File FileName="Code_of_Lab-1/file.ini" />
+      <File FileName="Code_of_Lab-1/Search.cs" Line="126" Column="14" />
+      <File FileName="Code_of_Lab-1/Parameters.cs" Line="4" Column="18" />
+      <File FileName="Code_of_Lab-1/file.ini" Line="26" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,7 +13,7 @@
           <Node name="Code_of_Lab-1" expanded="True">
             <Node name="Code_of_Lab-1" expanded="True">
               <Node name="Dependencies" expanded="True" />
-              <Node name="Program.cs" selected="True" />
+              <Node name="file.ini" selected="True" />
             </Node>
           </Node>
         </State>

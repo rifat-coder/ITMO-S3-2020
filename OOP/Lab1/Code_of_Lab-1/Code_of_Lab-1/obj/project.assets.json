@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rifat/Documents/ITMO-S3-2020/OOP/Lab1/Code_of_Lab-1/Code_of_Lab-1/Code_of_Lab-1.csproj",
+      "projectUniqueName": "/Users/rifat/Documents/Projects/ITMO-S3-2020/OOP/Lab1/Code_of_Lab-1/Code_of_Lab-1/Code_of_Lab-1.csproj",
       "projectName": "Code_of_Lab-1",
-      "projectPath": "/Users/rifat/Documents/ITMO-S3-2020/OOP/Lab1/Code_of_Lab-1/Code_of_Lab-1/Code_of_Lab-1.csproj",
+      "projectPath": "/Users/rifat/Documents/Projects/ITMO-S3-2020/OOP/Lab1/Code_of_Lab-1/Code_of_Lab-1/Code_of_Lab-1.csproj",
       "packagesPath": "/Users/rifat/.nuget/packages/",
-      "outputPath": "/Users/rifat/Documents/ITMO-S3-2020/OOP/Lab1/Code_of_Lab-1/Code_of_Lab-1/obj/",
+      "outputPath": "/Users/rifat/Documents/Projects/ITMO-S3-2020/OOP/Lab1/Code_of_Lab-1/Code_of_Lab-1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rifat/.config/NuGet/NuGet.Config"

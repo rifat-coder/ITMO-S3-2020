@@ -15,7 +15,6 @@ namespace Code_of_Lab_1
         public dynamic get_value()
         {
             return value;
-            
         }
     }
 }

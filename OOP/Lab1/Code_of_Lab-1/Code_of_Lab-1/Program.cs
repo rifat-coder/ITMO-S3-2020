@@ -8,12 +8,13 @@ namespace Code_of_Lab_1
     {
         static void Main(string[] args)
         {
+            
             Stopwatch stopWatch = new Stopwatch();
             stopWatch.Start();
             try
             {
 
-                Search search = new Search("/Users/rifat/Documents/ITMO-S3-2020/OOP/Lab1/Code_of_Lab-1/Code_of_Lab-1/file.ini");
+                Search search = new Search("/Users/rifat/Documents/Projects/ITMO-S3-2020/OOP/Lab1/Code_of_Lab-1/Code_of_Lab-1/file.ini");
                 search.read_ini_file();
                 var varible_s = search.finder("[COMMON]", "StatisterTimeMs");
                 Console.WriteLine($"{varible_s} - {varible_s.GetType()}");
@@ -32,6 +33,8 @@ namespace Code_of_Lab_1
                     ts.Milliseconds / 10);
                 Console.WriteLine("RunTime " + elapsedTime);
             }
+            
+            
         }
     }
 }

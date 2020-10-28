@@ -106,6 +106,7 @@ namespace Code_of_Lab_1
         public dynamic finder(string section_name, string parametr)
         {
             string value = all_parametrs[section_name][parametr];
+            
 
             if (!all_parametrs.ContainsKey(section_name))
             {
@@ -115,7 +116,12 @@ namespace Code_of_Lab_1
             {
                 throw new Local_Exception($"Not found parametr {parametr} in the section {section_name}.");
             }
+
+            return dConvert(value);
             
+        }
+        private dynamic dConvert(string value)
+        {
             if (Int32.TryParse(value, out int intval))
             {
                 return intval;
@@ -128,8 +134,6 @@ namespace Code_of_Lab_1
             {
                 return value;
             }
-            
         }
-        
     }
 }

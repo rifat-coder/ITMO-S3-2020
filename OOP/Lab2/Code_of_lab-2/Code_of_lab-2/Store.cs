@@ -15,5 +15,12 @@ namespace Code_of_lab_2
             this.storeName = storeName;
             this.storeAddress = storeAddress;
         }
+        public void addProduct(string Name, int quantity, decimal price)
+        {
+            if ()
+            {
+
+            }
+        }
     }
 }
