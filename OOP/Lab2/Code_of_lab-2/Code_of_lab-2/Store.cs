@@ -5,12 +5,12 @@ namespace Code_of_lab_2
 {
     public class Store
     {
-        public string storeID      { private set; get; }
-        public string storeName    { private set; get; }
-        public string storeAddress { private set; get; }
-        public Dictionary<string, ProductInStore> AllProductInStore = new Dictionary<string, ProductInStore>();
-        
-        public Store(string storeName, string storeAddress)
+        public string storeID      { set; get; }
+        public string storeName    { set; get; }
+        public string storeAddress { set; get; }
+        public Dictionary<string, ProductInStore> AllProductInStore { protected set; get; } = new Dictionary<string, ProductInStore>();
+
+    public Store(string storeName, string storeAddress)
         {
             this.storeID = Guid.NewGuid().ToString();
             this.storeName = storeName;
@@ -24,6 +24,31 @@ namespace Code_of_lab_2
         {
             ProductInStore product = new ProductInStore(currentProdInList, quantity, price);
             AllProductInStore.Add(product.productID, product);
+        }
+
+        public void change_price(string ID, double newPrice)
+        {
+            if (newPrice >= 0)
+            {
+                AllProductInStore[ID].price = newPrice;
+            }
+            else
+            {
+                throw new Store_Exception("Price doesn't be less 0");
+            }
+
+        }
+        public void change_quantity(string ID, int newQuantity)
+        {
+            if (newQuantity >= 0)
+            {
+                AllProductInStore[ID].quantity = newQuantity;
+            }
+            else
+            {
+                throw new Store_Exception("Quantity doesn't be less 0");
+            }
+            
         }
 
         public bool check_product_in_list(string ID)
@@ -67,7 +92,7 @@ namespace Code_of_lab_2
                 }
                 else
                 {
-                    throw new Exception("Out of stock!");
+                    throw new Store_Exception("Out of stock!");
                 }
             }
 

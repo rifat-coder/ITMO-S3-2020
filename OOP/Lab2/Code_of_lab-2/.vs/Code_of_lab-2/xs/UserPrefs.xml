@@ -1,16 +1,37 @@
 ﻿<Properties StartupConfiguration="{06962F3A-DFDD-4BBF-AA84-3CF425248124}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Code_of_lab-2/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Code_of_lab-2/ShopManager.cs">
     <Files>
-      <File FileName="Code_of_lab-2/Program.cs" Line="100" Column="28" IsPinned="True" />
-      <File FileName="Code_of_lab-2/Product.cs" />
-      <File FileName="Code_of_lab-2/ProductInStore.cs" />
-      <File FileName="Code_of_lab-2/Store.cs" />
-      <File FileName="Code_of_lab-2/ShopManager.cs" />
+      <File FileName="Code_of_lab-2/Program.cs" Line="148" Column="14" IsPinned="True" />
+      <File FileName="Code_of_lab-2/Product.cs" Line="8" Column="9" />
+      <File FileName="Code_of_lab-2/ProductInStore.cs" Line="7" Column="39" />
+      <File FileName="Code_of_lab-2/Store.cs" Line="9" Column="45" />
+      <File FileName="Code_of_lab-2/ShopManager.cs" Line="39" Column="10" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Code_of_lab-2" expanded="True">
+            <Node name="Code_of_lab-2" expanded="True">
+              <Node name="ShopManager.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Code_of_lab-2" expanded="True" selected="True">
+            <Node name="Code_of_lab-2" expanded="True">
+              <Node name="Code_of_lab_2" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Code__of__lab-2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Unit__tests__for__LAB2-Shop FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
