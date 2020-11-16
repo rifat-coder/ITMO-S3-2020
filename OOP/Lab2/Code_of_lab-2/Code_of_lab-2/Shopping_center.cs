@@ -9,10 +9,12 @@ namespace Code_of_lab_2
         public Shopping_center()
         {
         }
+        /*
         public void create_store(string ID, string Name, string Address)
         {
-            Store store = new Store(ID, Name, Address);
-            stores.Add(store);
+            Store store = new Store(Name, Address);
+            stores.Add(store.storeID, store);
         }
+        */
     }
 }

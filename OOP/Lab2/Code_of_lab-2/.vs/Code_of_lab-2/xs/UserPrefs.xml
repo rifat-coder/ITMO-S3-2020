@@ -1,12 +1,11 @@
 ﻿<Properties StartupConfiguration="{06962F3A-DFDD-4BBF-AA84-3CF425248124}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Code_of_lab-2/Program.cs">
     <Files>
-      <File FileName="Code_of_lab-2/Program.cs" Line="25" Column="45" IsPinned="True" />
+      <File FileName="Code_of_lab-2/Program.cs" Line="100" Column="28" IsPinned="True" />
       <File FileName="Code_of_lab-2/Product.cs" />
       <File FileName="Code_of_lab-2/ProductInStore.cs" />
-      <File FileName="Code_of_lab-2/Store.cs" Line="27" Column="1" />
-      <File FileName="Code_of_lab-2/Big_Storage.cs" />
-      <File FileName="Code_of_lab-2/Shopping_center.cs" />
+      <File FileName="Code_of_lab-2/Store.cs" />
+      <File FileName="Code_of_lab-2/ShopManager.cs" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
