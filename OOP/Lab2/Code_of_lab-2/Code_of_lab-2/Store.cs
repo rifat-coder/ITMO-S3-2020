@@ -5,9 +5,9 @@ namespace Code_of_lab_2
 {
     public class Store
     {
-        public string storeID      { set; get; }
-        public string storeName    { set; get; }
-        public string storeAddress { set; get; }
+        public string storeID      { private set; get; }
+        public string storeName    { private set; get; }
+        public string storeAddress { private set; get; }
         public Dictionary<string, ProductInStore> AllProductInStore { protected set; get; } = new Dictionary<string, ProductInStore>();
 
     public Store(string storeName, string storeAddress)
