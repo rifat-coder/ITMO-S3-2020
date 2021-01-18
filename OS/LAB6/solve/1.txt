@@ -1,0 +1,4 @@
+1.bat
+mkdir TEST & xcopy /y *.* TEST\*.*
+copy *.*+*.* FullInfo.txt
+del *.bat FreeMemory.txt OSVersion.txt UsedMemory.txt Disk.txt

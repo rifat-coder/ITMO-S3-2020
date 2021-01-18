@@ -1,0 +1,55 @@
+Comparing files firstScan.txt and SECONDSCAN.TXT
+***** firstScan.txt
+
+   Background Intelligent Transfer Service
+***** SECONDSCAN.TXT
+
+   Application Experience
+   Background Intelligent Transfer Service
+*****
+
+***** firstScan.txt
+   COM+ Event System
+   Computer Browser
+   Cryptographic Services
+***** SECONDSCAN.TXT
+   COM+ Event System
+   Cryptographic Services
+*****
+
+***** firstScan.txt
+   Diagnostic Service Host
+   Diagnostic System Host
+   Diagnostics Tracking Service
+***** SECONDSCAN.TXT
+   Diagnostic Service Host
+   Diagnostics Tracking Service
+*****
+
+***** firstScan.txt
+   Distributed Link Tracking Client
+   DNS Client
+   Function Discovery Resource Publication
+***** SECONDSCAN.TXT
+   Distributed Link Tracking Client
+   Function Discovery Resource Publication
+*****
+
+***** firstScan.txt
+   IPsec Policy Agent
+   Multimedia Class Scheduler
+   Network Connections
+***** SECONDSCAN.TXT
+   IPsec Policy Agent
+   Network Connections
+*****
+
+***** firstScan.txt
+   Windows Management Instrumentation
+   Windows Search
+***** SECONDSCAN.TXT
+   Windows Management Instrumentation
+   Windows Modules Installer
+   Windows Search
+*****
+
