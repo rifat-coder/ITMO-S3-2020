@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": []
+  },
+  "packageFolders": {
+    "/Users/rifat/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/rifat/Documents/Projects/ITMO-S3-2020/OOP/Lab6/Code_of_lab_6V2/DAL/DAL.csproj",
+      "projectName": "DAL",
+      "projectPath": "/Users/rifat/Documents/Projects/ITMO-S3-2020/OOP/Lab6/Code_of_lab_6V2/DAL/DAL.csproj",
+      "packagesPath": "/Users/rifat/.nuget/packages/",
+      "outputPath": "/Users/rifat/Documents/Projects/ITMO-S3-2020/OOP/Lab6/Code_of_lab_6V2/DAL/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/rifat/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "NETStandard.Library": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

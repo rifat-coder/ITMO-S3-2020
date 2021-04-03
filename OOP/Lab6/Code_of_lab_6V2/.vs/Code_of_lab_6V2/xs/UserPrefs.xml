@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{62832A13-8442-40C5-9EF1-68C9618EFD44}|Default">
+  <MonoDevelop.Ide.ItemProperties.Code__of__lab__6V2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BLL/Services/ReportService.cs">
+    <Files>
+      <File FileName="Code_of_lab_6V2/Program.cs" Line="36" Column="1" />
+      <File FileName="DAL/Entities/Task.cs" />
+      <File FileName="BLL/Services/ReportService.cs" Line="22" Column="1" />
+      <File FileName="BLL/Services/TasksService.cs" Line="16" Column="10" />
+      <File FileName="DAL/Repositories/UnitOfWork.cs" Line="20" Column="10" />
+      <File FileName="DAL/Entities/IEntities.cs" />
+      <File FileName="BLL/Services/TimerService.cs" Line="16" Column="49" />
+      <File FileName="DAL/ApplicationCore/ApplicationContext.cs" Line="1" Column="1" />
+      <File FileName="BLL/Services/ApplicationContext.cs" Line="1" Column="1" />
+      <File FileName="DAL/FutureTimer.cs" />
+      <File FileName="DAL/Repositories/Repository.cs" Line="42" Column="1" />
+      <File FileName="DAL/Entities/IStaff.cs" />
+      <File FileName="DAL/Entities/IReport.cs" />
+      <File FileName="DAL/Entities/ICommit.cs" />
+      <File FileName="Code_of_lab_6V2/HomeController.cs" />
+      <File FileName="BLL/Services/CommitManageService.cs" Line="1" Column="1" />
+      <File FileName="BLL/Services/StaffMAnService.cs" Line="29" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Code_of_lab_6V2" expanded="True">
+            <Node name="BLL" expanded="True">
+              <Node name="Services" expanded="True">
+                <Node name="ReportService.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Code_of_lab_6V2" expanded="True" />
+            <Node name="DAL" expanded="True">
+              <Node name="ApplicationCore" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

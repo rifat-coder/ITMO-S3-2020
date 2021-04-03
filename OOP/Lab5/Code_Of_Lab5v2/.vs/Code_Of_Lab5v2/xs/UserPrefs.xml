@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{B55901F2-A741-40F6-9892-C546DA7E31F9}|Default">
+  <MonoDevelop.Ide.ItemProperties.Code__Of__Lab5v2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Code_Of_Lab5v2/Bank.cs">
+    <Files>
+      <File FileName="Code_Of_Lab5v2/Program.cs" Line="27" Column="67" />
+      <File FileName="Code_Of_Lab5v2/Client.cs" />
+      <File FileName="Code_Of_Lab5v2/IAccount.cs" />
+      <File FileName="Code_Of_Lab5v2/Bank.cs" Line="22" Column="1" />
+      <File FileName="Code_Of_Lab5v2/History.cs" />
+      <File FileName="Code_Of_Lab5v2/Banks_Exception.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
